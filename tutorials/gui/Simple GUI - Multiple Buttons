@@ -1,10 +1,16 @@
+#Holypython.com
+##Basic GUI with Multiple Buttons
+
+#Import Libraries
 import PySimpleGUI as sg
 sg.theme('LightYellow')
 
+#Create Layout
 layout  = [[sg.T("")],[sg.Button('Hello World!',size=(20,4))],[sg.Text("  ")],
 [sg.Button('Winter Olympics 2022 (Beijing)'), sg.Button('Summer Olympics 2021 (Tokyo)')],[sg.Text(" ")],
 [sg.Button('Fifa World Cup 2022 (Qatar)'), sg.T(" "*2),sg.Button('Tour de France')]]
 
+#Create Window
 window = sg.Window('Bunch of Buttons', layout, size=(420,250))
 event, values = window.read()
 
