@@ -1,4 +1,5 @@
-# This playlist is created by programmers and for programmers to help focus, feel creative and feel productive vibes.
+# Programming Playlist
+### This playlist is created by programmers and for programmers to help focus, feel creative and feel productive vibes. Please see Contribution Guidelines to contribute to the list.
 
 ## Synthwave and Cyberpunk
 
