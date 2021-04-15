@@ -1,4 +1,4 @@
-# Blog Post
+# Blog Posts
 
 ### Music recommendations in this repository are also showcased in the blog posts below:
 
