@@ -35,12 +35,9 @@ TimeCop1983 - <a style="background-color: #ffffff;" href="https://www.youtube.co
 Deus Ex - <a href="https://www.youtube.com/watch?v=B6YKgg-QwDQ" target="_blank" rel="noopener">Highland Park Ambient</a>
 Mirror's Edge - <a href="https://www.youtube.com/watch?v=lsT3liqgQsA" target="_blank" rel="noopener">Kate</a>
 
-
 ## Game Soundtracks
 
-
 Cyberpunk 2077 - <a href="https://www.youtube.com/watch?v=9ayYeLLT8bs" target="_blank" rel="noopener">Trailer Soundtrack</a> - Really great.
-
 Fifa 98<a href="https://www.youtube.com/watch?v=8w0X1bSrUHs" target="_blank" rel="noopener"> - Blur</a>
 France 98 - <a href="https://www.youtube.com/watch?v=2H5uWRjFsGc" target="_blank" rel="noopener">Tubthumping</a>
 Fifa 2002 - <a href="https://www.youtube.com/watch?v=oVkatTa0D4c" target="_blank" rel="noopener">Gorillaz</a>
@@ -64,22 +61,22 @@ Way Older Games: <a href="https://www.youtube.com/results?search_query=chiptune"
 
 ## Chill Hop & Lo-Fi
 
-<a href="https://www.youtube.com/user/Chillhopdotcom" target="_blank" rel="noopener">Hillhop Music Channel</a>
-<a href="https://www.youtube.com/channel/UCZyyXrEF2WCZbI653PFNBbA" target="_blank" rel="noopener">Fantastic Music Channel</a>
+* [Hillhop Music Channel](https://www.youtube.com/user/Chillhopdotcom)
+* [Fantastic Music Channel](https://www.youtube.com/channel/UCZyyXrEF2WCZbI653PFNBbA)
 
 ## Darkwave, Dark Synth, Postpunk, Goth, Coldwave
 
-<a href="https://www.youtube.com/watch?v=s_NoHhIAf44" target="_blank" rel="noopener">10 Hour Darkwave Mix</a>
-<a href="https://www.youtube.com/watch?v=WPw7nlluRdc" target="_blank" rel="noopener">Lebanon Hanover</a>
-<a style="background-color: #ffffff;" href="https://www.youtube.com/watch?v=OKRJfIPiJGY" target="_blank" rel="noopener">Bauhaus</a>
+* [10 Hour Darkwave Mix](https://www.youtube.com/watch?v=s_NoHhIAf44)
+* [Lebanon Hanover](https://www.youtube.com/watch?v=WPw7nlluRdc)
+* [Bauhaus](https://www.youtube.com/watch?v=OKRJfIPiJGY)
 <a href="https://www.youtube.com/watch?v=5OsETaZhBzE" target="_blank" rel="noopener">She Past Away</a>
 <a href="https://www.youtube.com/watch?v=hbbbark8k7w" target="_blank" rel="noopener">Boy Harsher</a>
 
 ## World Music
 
-Latin Music: <a href="https://www.youtube.com/watch?v=o5cELP06Mik" target="_blank" rel="noopener">Buenos Vista Social Club</a>
-Indian Music: <a href="https://www.youtube.com/watch?v=_dxH0grwsIg" target="_blank" rel="noopener">Old Hindi Collection</a> (Super cool Himalaya vibes)
-French Music: <a href="https://www.youtube.com/watch?v=NrgcRvBJYBE" target="_blank" rel="noopener">Noir Desir</a>
+* [Latin Music - Buenos Vista Social Club](https://www.youtube.com/watch?v=o5cELP06Mik)
+* [Indian Music - Old Hindi Collection](https://www.youtube.com/watch?v=_dxH0grwsIg)
+* [French Music - Noir Desir](https://www.youtube.com/watch?v=NrgcRvBJYBE)
 Israel: <a href="https://www.youtube.com/watch?v=Y30pfWIQfoo" target="_blank" rel="noopener">Ishay Ribo</a>
 Bollywood: <a href="https://www.youtube.com/watch?v=Kk2gALRGZOs" target="_blank" rel="noopener">Kumar Sanu, Alka Yagnik</a> (They seem in love, lol)
 German: <a href="https://www.youtube.com/watch?v=ZV4fONSDFUQ" target="_blank" rel="noopener">CRO</a>
@@ -97,6 +94,6 @@ Mongolia: <a href="https://www.youtube.com/watch?v=AMndPTS0KLY" target="_blank" 
 
 ## Ambient - Lounge
 
-Ben Pfeifer - <a href="https://www.youtube.com/watch?v=KSsTVsa4Usw" target="_blank" rel="noopener">Lounge Music</a>
-Chill 2 Chill - <a href="https://www.youtube.com/watch?v=geShWsdxp2A" target="_blank" rel="noopener">Summer Mix 2019</a>
-Paris Cafe Ambience - <a href="https://www.youtube.com/watch?v=pU1SnVQbleM" target="_blank" rel="noopener">Cafe de Paris</a> - Voulez vous un cafe?
+* [Lounge Music - Ben Pfeifer](https://www.youtube.com/watch?v=KSsTVsa4Usw)
+* [Chill 2 Chill - Summer Mix 2019](https://www.youtube.com/watch?v=geShWsdxp2A)
+* [Paris Cafe Ambience - Cafe de Paris](https://www.youtube.com/watch?v=pU1SnVQbleM)
