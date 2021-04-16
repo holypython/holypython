@@ -1,9 +1,5 @@
-# Contribution Guidelines
+# Blog Posts
 
-### To contribute kindly follow the instructions below:
+### Music recommendations in this repository are also showcased in the blog posts below:
 
-* Make sure the movie(s) you are recommending is(are) geniuinely suitable for programming from your perspective and the intention is not commercial promotion.
-* Add your recommendation to the existing list either to a suitable category or under a new category.
-* Add your name to the Authors.md file.
-
-## Thank you!
+* [Movies For Programming](https://holypython.com/24-movies-that-inspire-coding/)
